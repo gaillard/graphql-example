@@ -1,0 +1,10 @@
+schema {
+    query: Query
+}
+
+type Query {
+    now: DateTime!
+}
+
+"RFC3339 formatted timestamp"
+scalar DateTime
