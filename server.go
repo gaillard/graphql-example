@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/azavorotnii/graphql-example/schema"
+	"github.com/gaillard/graphql-example/schema"
 	"log"
 	"net/http"
 
